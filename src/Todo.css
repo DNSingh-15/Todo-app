@@ -1,0 +1,34 @@
+
+.App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  .form {
+    width: 30%;
+    margin-left: 35%;
+    height: 30px;
+  }
+  
+  .btn {
+    width: 4%;
+    margin-left: 42%;
+    height: 30px;
+    background-color: #61dafb;
+    border-radius: 5px;
+  }
+  
+  .header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-size: calc(30px + 2vmin);
+    color: white;
+  }
+  
